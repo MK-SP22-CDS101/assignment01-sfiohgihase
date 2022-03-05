@@ -45,6 +45,10 @@ By the end of the course, students will be able to:
 
 
   * Critically examine and interpret statistical claims reported in mass media.
+  
+# Including Code
+
+## Running R code in a code chunk
 
                
 
