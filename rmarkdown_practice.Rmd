@@ -41,7 +41,7 @@ By the end of the course, students will be able to:
   * Obtain, clean, transform, and visualize a dataset using the R programming language.
 
 
-  * Interpret and predict dataset trends statistical inference and models.
+  * Interpret and predict dataset trends using statistical inference and models.
 
 
   * Critically examine and interpret statistical claims reported in mass media.
@@ -54,6 +54,12 @@ By the end of the course, students will be able to:
 x <- 2+2
 x + 3
 ```
-The output
+The output of first line of code is not prited out because it is assigned to a variable instead.
 
+The second line of out put is printed out instead, but this means that the calculated value has not been saved for future use.
+
+## Displaying Graphs
+```{r}
+ggplot2::qplot(data = iris, x = Sepal.Length, y = Sepal.Width)
+```
 
