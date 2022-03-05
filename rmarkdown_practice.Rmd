@@ -54,9 +54,9 @@ By the end of the course, students will be able to:
 x <- 2+2
 x + 3
 ```
-The output of first line of code is not prited out because it is assigned to a variable instead.
+The output of first line of code is not printed out because it is assigned to a variable instead.
 
-The second line of out put is printed out instead, but this means that the calculated value has not been saved for future use.
+The second line of output is printed out instead, but this means that the calculated value has not been saved for future use.
 
 ## Displaying Graphs
 ```{r}
