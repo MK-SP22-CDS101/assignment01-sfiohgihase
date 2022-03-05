@@ -27,6 +27,13 @@ urlcolor: blue
 
 <!-- Write your Markdown below this line -->
 
-#Hello World!.
+#Section
+
+__Section K02__
+
+# Course Goals
+By the end of the course, students will be able to:
+
+* Use 
 
 
